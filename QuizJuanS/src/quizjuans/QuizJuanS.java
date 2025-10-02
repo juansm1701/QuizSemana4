@@ -50,7 +50,7 @@ double DED = salarioIndividual * 0.025;
 double salarioTotal = salarioIndividual-SEM-IVM-DED
  
 //Print
-   JOptionPane.showMessageDialog(null, "El salario es " + suma + "₡ " + salarioTotal);
+   JOptionPane.showMessageDialog(null, "El salario es " + "₡ " + salarioTotal);
                     
                     
                 
